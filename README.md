@@ -1,2 +1,2 @@
-# iOS-Event-Search-Sample-App
-iOS-Event-Search-Sample-App Code
+# Event-Search-Sample-App
+Uploading file for event search sample app
